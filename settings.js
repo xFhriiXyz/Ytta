@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false
 
 //language
 //Available in indonesia , english & spanyol 
@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "ChissPear-Botz" //namabot kalian
+global.botname = "XynnZuu-Botz" //namabot kalian
 global.ownername= "FhriiSlebew" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
@@ -37,17 +37,17 @@ global.premium = ['6282118868431'] //premium user
 global.owner = ["6282118868431","6282118868431"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282118868431" // nomor wa kalian
 global.ownernomerr = "+6282118868431" //nmr wa kalian
-global.thumbnail = "./image/73f71abcd286a721094c6ad094f4b01f.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/IMG-20220803-WA0291(1).jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/Proyek Baru [3DFA217].jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© ChissPear-Botz' //sticker wm ubah
+global.packname = '© XynnZuu-Botz' //sticker wm ubah
 global.author = 'Di Buat Oleh FhriSlebew' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 150
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
@@ -81,7 +81,7 @@ global.mess = {
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: '⏳ being processed',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
